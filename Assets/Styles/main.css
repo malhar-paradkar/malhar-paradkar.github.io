@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav:first-of-type h1.navbar-heading{
+    text-align: center;
+    font-size: 32px;
+    letter-spacing: 1rem;
+    color: #ffc214;
+}
